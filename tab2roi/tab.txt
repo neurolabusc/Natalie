@@ -1,0 +1,62 @@
+Beta Weights	ROI			
+-0.0945362	186|PSMG_L|posterior middle temporal gyrus left|1			
+-0.0852231	31|AG_L|angular gyrus left|1			
+-0.0845473	182|PIns_L|posterior insula left|1			
+-0.0843379	184|PSTG_L|posterior superior temporal gyrus left|1			
+-0.0801668	35|STG_L|superior temporal gyrus left|1			
+-0.0641158	53|MOG_L|middle occipital gyrus left|1			
+-0.0533977	11|IFG_opercularis_L|inferior frontal gyrus pars opercularis left|1			
+-0.0496393	39|MTG_L|middle temporal gyrus left|1			
+-0.0478913	29|SMG_L|supramarginal gyrus left|1			
+-0.047431	155|SLF_L|Superior longitudinal fasciculus left|2			
+-0.0410468	7|MFG_L|middle frontal gyrus (posterior segment) left|1			
+-0.0396246	25|PrCG_L|precentral gyrus left|1			
+-0.0363964	137|EC_L|external capsule left|2			
+-0.0351794	71|Ins_L|insular left|1			
+-0.0293545	27|SPG_L|Superior parietal gyrus left|1			
+-0.0286616	55|IOG_L|inferior occipital gyrus left|1			
+-0.0281247	37|STG_L_pole|pole of superior temporal gyrus left|1			
+-0.0278004	153|SFO_L|Superior fronto-occipital fasciculus (could be a part of anterior internal capsule) left|2			
+-0.0263882	131|ALIC_L|anterior limb of internal capsule left|2			
+-0.0258875	129|TAP_L|tapatum left|2			
+-0.0241826	15|IFG_triangularis_L|inferior frontal gyrus pars triangularis left|1			
+-0.0240809	23|PoCG_L|postcentral gyrus left|1			
+-0.0240327	41|MTG_L_pole|pole of middle temporal gyrus left|1			
+-0.021942	119|SCR_L|superior corona radiata left|2			
+-0.0201008	173|LV_atrium_L|lateral ventricle_atrium left|3			
+-0.0198222	149|PTR_L|Posterior thalamic radiation (include optic radiation) left|2			
+-0.0196731	43|ITG_L|inferior temporal gyrus left|1			
+-0.0176704	188|PSIG_L|posterior inferior temporal gyrus left|1			
+-0.0176539	81|GP_L|globus pallidus left|1			
+-0.0155566	79|Put_L|putamen left|1			
+-0.0154666	77|Caud_L|caudate nucleus left|1			
+-0.0149276	117|ACR_L|anterior corona radiata left|2			
+-0.0148812	51|SOG_L|superior occipital gyrus left|1			
+-0.0132422	163|LenticularFasc_L|Lenticular fasciclus left|2			
+-0.0127929	13|IFG_orbitalis_L|inferior frontal gyrus pars orbitralis left|1			
+-0.0107869	121|PCR_L|posterior corona radiata left|2			
+-0.00795819	165|OlfactoryRadiation_L|olfactory radiation  left|2			
+-0.00773534	171|LV_frontal_L|lateral ventricle_frontal left|3			
+-0.00695809	147|IFO_L|Inferior fronto-occipital fasciculus left|2			
+-0.00657992	174|LV_occipital_L|lateral ventricle_occipital left|3			
+-0.006338	1|SFG_L|superior frontal gyrus (posterior segment) left|1			
+-0.00598686	9|MFG_DPFC_L|middle frontal gyrus (dorsal prefrontal cortex) left|1			
+-0.00405396	3|SFG_PFC_L|superior frontal gyrus (prefrontal cortex) left|1			
+-0.00300095	161|AnteriorCom_L|Anterior commissure left|2			
+-0.00294272	127|SCC_L|splenium of corpus callosum left|2			
+-0.00267857	123|GCC_L|genu of corpus callosum left|2			
+-0.00220419	143|Fx/ST_L|fornix (cres) / Stria terminalis (can not be resolved with current resolution) left|2			
+-0.00208716	89|NucAccumbens_L|nucleus accumbens left|1			
+-0.00204912	17|LFOG_L|lateral fronto-orbital gyrus left|1			
+-0.00201394	157|UNC_L|Uncinate fasciculus left|2			
+-0.00172885	85|Hypothalamus_L|hypothalamus left|1			
+-0.00129484	5|SFG_pole_L|superior frontal gyrus (frontal pole) left|1			
+-0.000831962	73|Amyg_L|amygdala left|1			
+-0.000662234	125|BCC_L|body of corpus callosum left|2			
+-0.000141459	97|CP_L|cerebral peduncle left|1			
+-0.000136915	111|ML_L|medial lemniscus left|2			
+-4.71E-05	2|SFG_R|superior frontal gyrus (posterior segment) right|1			
+-3.75E-05	87|Mynert_L|nucleus innominata of mynert left|1			
+-2.29E-05	102|CST_R|corticospinal tract right|2			
+-1.70E-05	185|PSTG_R|posterior superior temporal gyrus right|1			
+-1.35E-05	181|III_and_IV_ventricle|III and IV ventricle|3			
